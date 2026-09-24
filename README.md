@@ -3,15 +3,15 @@
 
 ## 學生資訊
 
-學號：(開頭不含s)
+學號：11515232
 
-姓名：(請填寫真實姓名)
+姓名陳士博
 
-GitHub名稱：(在GitHub的名稱)
+GitHub名稱：
 
-儲存庫名稱(Spec)：WebSpec_(學號不含s)
+儲存庫名稱(Spec):Bruce-byte-ui
 
-儲存庫名稱(Page)：WebPage_(學號不含s)
+儲存庫名稱(Page)：WebSpoc.11515232
 
 課程名稱：AI 規格驅動網站開發
 
